@@ -1,2 +1,2 @@
 # OLIST-dataset_R
-Data analysis of OLIST dataset taken from kaggle using R language
+OLIST is a dataset of e-commerce website taken from kaggle. Here, i have done data analysis of OLIST using language R.
